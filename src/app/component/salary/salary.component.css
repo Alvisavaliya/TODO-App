@@ -1,0 +1,14 @@
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+  }
+  
+
+  
+  input.ng-invalid.ng-touched{
+    border: red 2px solid;
+  }
+  
